@@ -122,6 +122,6 @@ kernel/configs/android-*.cfg
 #out dir
 *.old
 /working/
-/out/
+/w5_out/
 /compiled/
 /package/zImage
